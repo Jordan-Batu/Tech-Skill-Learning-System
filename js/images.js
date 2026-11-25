@@ -1,0 +1,33 @@
+// Image paths used across the app. Replace a file in /images or change its path here.
+var IM = {
+  logo: "images/logo.png",
+  bolt: "images/lightning-bolt.png",
+  sw: "images/software-illustration.png",
+  hw: "images/hardware-illustration.png",
+  n_lessons: "images/sidebar-lessons.png",
+  n_acts: "images/sidebar-activities.png",
+  n_quiz: "images/sidebar-quiz.png",
+  n_prog: "images/sidebar-progress.png",
+  about: "images/sidebar-about.png",
+  dash: "images/sidebar-dashboard.png",
+  t_lessons: "images/tile-lessons.png",
+  t_acts: "images/tile-activities.png",
+  t_quiz: "images/tile-quiz.png",
+  t_prog: "images/tile-progress.png",
+  s_book: "images/stat-completed-lessons.png",
+  s_trophy: "images/stat-quiz-trophy.png",
+  search: "images/search-button.png",
+  lock: "images/lock.png",
+  arrows: "images/arrows.png",
+  lockb: "images/lock-small.png",
+  playb: "images/play-small.png",
+  ab_target: "images/about-target.png",
+  ab_eye: "images/about-eye.png",
+  ab_lessons: "images/about-lessons.png",
+  ab_books: "images/about-books.png",
+  ab_quiz: "images/about-quiz.png",
+  ab_prog: "images/about-progress.png",
+  ab_goal: "images/about-goal.png",
+  // Team photos for the About page, in display order
+  team: ["images/team-placeholder.jpg", "images/team-champaigne.jpg", "images/team-hanelyn.jpg", "images/team-lynlyn.jpg", "images/team-patricia.jpg", "images/team-placeholder.jpg", "images/team-darryl.jpg"]
+};
